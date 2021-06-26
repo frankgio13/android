@@ -312,7 +312,8 @@
   <project path="external/opencensus-java" name="platform/external/opencensus-java" groups="pdk,tradefed" remote="aosp" />
   <project path="external/OpenCL-CTS" name="platform/external/OpenCL-CTS" remote="aosp" />
   <project path="external/OpenCSD" name="platform/external/OpenCSD" groups="pdk" remote="aosp" />
-  <project path="external/openssh" name="LineageOS/android_external_openssh" groups="pdk" />
+  <remove-project name="LineageOS/android_external_openssh" />
+  <project path="external/openssh" name="frankgio13/android_external_openssh" groups="pdk" remote="gs" />
   <project path="external/oss-fuzz" name="platform/external/oss-fuzz" groups="pdk" remote="aosp" />
   <project path="external/owasp/sanitizer" name="platform/external/owasp/sanitizer" groups="pdk" remote="aosp" />
   <project path="external/parameter-framework" name="platform/external/parameter-framework" groups="pdk" remote="aosp" />
