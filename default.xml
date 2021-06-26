@@ -13,6 +13,10 @@
            review="android-review.googlesource.com"
            revision="refs/tags/android-11.0.0_r38" />
 
+  <remote  name="proton"
+           fetch="https://github.com/ProtonAOSP"
+           revision="rvc" />
+
   <default revision="refs/heads/lineage-18.1"
            remote="github"
            sync-c="true"
