@@ -284,7 +284,7 @@
   <project path="external/lmfit" name="platform/external/lmfit" groups="pdk" remote="aosp" />
   <project path="external/ltp" name="platform/external/ltp" groups="vts,pdk" remote="aosp" />
   <project path="external/lua" name="platform/external/lua" groups="pdk" remote="aosp" />
-  <project path="external/lz4" name="xwu2dcba3xd3lub411dfrubrub/android_external_lz4" groups="pdk" remote="crdroid" />
+  <project path="external/lz4" name="crdroidandroid/android_external_lz4" groups="pdk" remote="crdroid" />
   <project path="external/lzma" name="platform/external/lzma" groups="pdk" remote="aosp" />
   <project path="external/markdown" name="platform/external/markdown" groups="pdk" remote="aosp" />
   <project path="external/mdnsresponder" name="platform/external/mdnsresponder" groups="pdk" remote="aosp" />
@@ -434,7 +434,7 @@
   <project path="external/xz-embedded" name="platform/external/xz-embedded" groups="pdk" remote="aosp" />
   <project path="external/xz-java" name="platform/external/xz-java" groups="pdk" remote="aosp" />
   <project path="external/yapf" name="platform/external/yapf" groups="vts,projectarch,pdk" remote="aosp" />
-  <project path="external/zlib" name="xwu2dcba3xd3lub411dfrubrub/android_external_zlib" groups="pdk" remote="crdroid" />
+  <project path="external/zlib" name="crdroidandroid/android_external_zlib" groups="pdk" remote="crdroid" />
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk" remote="aosp" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk" remote="aosp" />
   <project path="frameworks/av" name="LineageOS/android_frameworks_av" groups="pdk" />
