@@ -273,7 +273,7 @@
   <project path="external/libunwind_llvm" name="platform/external/libunwind_llvm" groups="pdk" remote="aosp" />
   <project path="external/libusb" name="platform/external/libusb" groups="pdk" remote="aosp" />
   <project path="external/libutf" name="platform/external/libutf" groups="pdk" remote="aosp" />
-  <project path="external/libvpx" name="platform/external/libvpx" groups="pdk" remote="aosp" />
+  <project path="external/libvpx" name="crdroidandroid/android_external_libvpx" groups="pdk" remote="crdroid" />
   <project path="external/libvterm" name="platform/external/libvterm" groups="pdk" remote="aosp" />
   <project path="external/libxaac" name="platform/external/libxaac" groups="pdk" remote="aosp" />
   <project path="external/libxkbcommon" name="platform/external/libxkbcommon" groups="pdk" remote="aosp" />
