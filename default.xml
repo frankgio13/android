@@ -46,7 +46,7 @@
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
-  <project path="art" name="LineageOS/android_art" groups="pdk" />
+  <project path="art" name="xwu2dcba3xd3lub411dfrubrub/android_art" groups="pdk" remote="gs" />
   <project path="bionic" name="xwu2dcba3xd3lub411dfrubrub/android_bionic" groups="pdk" remote="gs" />
   <project path="bootable/recovery" name="LineageOS/android_bootable_recovery" groups="pdk" />
   <project path="compatibility/cdd" name="platform/compatibility/cdd" groups="pdk" remote="aosp" />
