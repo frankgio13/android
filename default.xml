@@ -122,7 +122,7 @@
   <project path="external/cn-cbor" name="platform/external/cn-cbor" groups="pdk" remote="aosp" />
   <project path="external/compiler-rt" name="platform/external/compiler-rt" groups="pdk" remote="aosp" />
   <project path="external/conscrypt" name="platform/external/conscrypt" groups="pdk" remote="aosp" />
-  <project path="external/cpu_features" name="platform/external/cpu_features" groups="pdk" remote="aosp" />
+  <project path="external/cpu_features" name="crdroidandroid/android_external_cpu_features" groups="pdk" remote="crdroid" />
   <project path="external/cpuinfo" name="platform/external/cpuinfo" groups="pdk" remote="aosp" />
   <project path="external/crcalc" name="platform/external/crcalc" groups="pdk" remote="aosp" />
   <project path="external/cros/system_api" name="platform/external/cros/system_api" groups="pdk" remote="aosp" />
