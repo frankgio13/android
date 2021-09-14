@@ -17,6 +17,10 @@
            fetch=".."
            revision="rvc" />
 
+  <remote  name="wv"
+           fetch=".."
+           revision="r" />
+
   <remote  name="gs"
            fetch=".."
            revision="lineage-18.1" />
@@ -254,7 +258,7 @@
   <project path="external/libgsm" name="platform/external/libgsm" groups="pdk" remote="aosp" />
   <project path="external/libhevc" name="platform/external/libhevc" groups="pdk" remote="aosp" />
   <project path="external/libiio" name="platform/external/libiio" groups="pdk" remote="aosp" />
-  <project path="external/libjpeg-turbo" name="ProtonAOSP/android_external_libjpeg-turbo" groups="pdk" remote="proton" />
+  <project path="external/libjpeg-turbo" name="Wave-Project/external_libjpeg-turbo" groups="pdk" remote="wv" />
   <project path="external/libkmsxx" name="platform/external/libkmsxx" groups="pdk" remote="aosp" />
   <project path="external/libldac" name="platform/external/libldac" groups="pdk" remote="aosp" />
   <project path="external/libmpeg2" name="platform/external/libmpeg2" groups="pdk" remote="aosp" />
